@@ -1,0 +1,16 @@
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\Bubblesort.exe
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\Bubblesort.deps.json
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\Bubblesort.runtimeconfig.json
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\Bubblesort.runtimeconfig.dev.json
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\Bubblesort.dll
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\ref\Bubblesort.dll
+C:\git\algorithme\Bubblesort\bin\Debug\net5.0\Bubblesort.pdb
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.csproj.AssemblyReference.cache
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.AssemblyInfoInputs.cache
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.AssemblyInfo.cs
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.csproj.CoreCompileInputs.cache
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.dll
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\ref\Bubblesort.dll
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.pdb
+C:\git\algorithme\Bubblesort\obj\Debug\net5.0\Bubblesort.genruntimeconfig.cache

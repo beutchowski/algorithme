@@ -1,0 +1,16 @@
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\TriParInsertion.exe
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\TriParInsertion.deps.json
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\TriParInsertion.runtimeconfig.json
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\TriParInsertion.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\TriParInsertion.dll
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\ref\TriParInsertion.dll
+C:\git\visualStudio\algorithme\TriParInsertion\bin\Debug\net5.0\TriParInsertion.pdb
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.dll
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\ref\TriParInsertion.dll
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.pdb
+C:\git\visualStudio\algorithme\TriParInsertion\obj\Debug\net5.0\TriParInsertion.genruntimeconfig.cache

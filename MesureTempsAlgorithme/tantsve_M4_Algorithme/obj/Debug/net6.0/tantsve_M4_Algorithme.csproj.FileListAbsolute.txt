@@ -1,0 +1,15 @@
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.exe
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.deps.json
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.runtimeconfig.json
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.dll
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\ref\tantsve_M4_Algorithme.dll
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.pdb
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.csproj.AssemblyReference.cache
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.AssemblyInfoInputs.cache
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.AssemblyInfo.cs
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.csproj.CoreCompileInputs.cache
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.dll
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\ref\tantsve_M4_Algorithme.dll
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.pdb
+C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.genruntimeconfig.cache

@@ -13,3 +13,18 @@ C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes
 C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\ref\tantsve_M4_Algorithme.dll
 C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.pdb
 C:\Users\svent\OneDrive - DIVTEC\Partage Tantardini-Ribeaud\Module 4\Algorithmes\Exercices\Sven\Solution\tantsve_M4_Algorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.genruntimeconfig.cache
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.exe
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.deps.json
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.runtimeconfig.json
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.dll
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\ref\tantsve_M4_Algorithme.dll
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\bin\Debug\net6.0\tantsve_M4_Algorithme.pdb
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.dll
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\ref\tantsve_M4_Algorithme.dll
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.pdb
+C:\git\visualStudio\algorithme\MesureTempsAlgorithme\tantsve_M4_Algorithme\obj\Debug\net6.0\tantsve_M4_Algorithme.genruntimeconfig.cache

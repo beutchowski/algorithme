@@ -1,0 +1,16 @@
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\TempsDeTri.exe
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\TempsDeTri.deps.json
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\TempsDeTri.runtimeconfig.json
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\TempsDeTri.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\TempsDeTri.dll
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\ref\TempsDeTri.dll
+C:\git\visualStudio\algorithme\TempsDeTri\bin\Debug\net5.0\TempsDeTri.pdb
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.dll
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\ref\TempsDeTri.dll
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.pdb
+C:\git\visualStudio\algorithme\TempsDeTri\obj\Debug\net5.0\TempsDeTri.genruntimeconfig.cache

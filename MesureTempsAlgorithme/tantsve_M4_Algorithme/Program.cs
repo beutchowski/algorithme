@@ -3,14 +3,14 @@
 Random aleatoire = new Random();
 List<int> BigList = new List<int>();
 
-for (int i = 0; i < 12800; i++)
+for (int i = 0; i < 1000; i++)
 {
-    int nbr = aleatoire.Next(1, 100000);
+    int nbr = aleatoire.Next(100000, 999999);
     BigList.Add(nbr);
 }
 var DateStart = DateTime.Now;
 #region BubbleSort
-/*
+
 List<int> array = BigList;
 Console.WriteLine("------- BubbleSort -------");
 for (int i = 0; i < array.Count; i++)
@@ -26,9 +26,12 @@ for (int i = 0; i < array.Count; i++)
         }
 
     }
-
 }
-*/
+foreach(int nbr in array)
+{
+    Console.Write($"{nbr} | ");
+}
+
 #endregion
 
 #region Tri par insertion
@@ -59,7 +62,7 @@ showArray(array_tpi);
 #region Tri par sélection
 
 //int[] array_tps = { 1, 7, 3, 2, 0, 5, 0, 8 };
-
+/*
 Console.WriteLine("------- Tri par sélection -------");
 List<int> array_tps = BigList;
 showArray(array_tps);
@@ -82,12 +85,14 @@ for (int indexPosition = 0; indexPosition < array_tps.Count; indexPosition++)
     }
     showArray(array_tps);
 }
-
+*/
 #endregion
 
 var DateEnd = DateTime.Now;
-Console.WriteLine($"{resultTime(DateStart, DateEnd)} pour effectuer le tri.");
+//double finTempsTri = (double)DateEnd;
 
+
+Console.WriteLine($"\n{resultTime(DateStart, DateEnd)} pour effectuer le tri.");
 
 static void showArray(List<int> array)
 {
@@ -100,6 +105,8 @@ static void showArray(List<int> array)
     //}
     //Console.WriteLine("\n--------------");
 }
+
+
 
 static double resultTime(DateTime start, DateTime end)
 {

@@ -1,0 +1,15 @@
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\CalculPuissanceNbr.exe
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\CalculPuissanceNbr.deps.json
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\CalculPuissanceNbr.runtimeconfig.json
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\CalculPuissanceNbr.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\CalculPuissanceNbr.dll
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\ref\CalculPuissanceNbr.dll
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\bin\Debug\net5.0\CalculPuissanceNbr.pdb
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.dll
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\ref\CalculPuissanceNbr.dll
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.pdb
+C:\git\visualStudio\algorithme\CalculPuissanceNbr\obj\Debug\net5.0\CalculPuissanceNbr.genruntimeconfig.cache

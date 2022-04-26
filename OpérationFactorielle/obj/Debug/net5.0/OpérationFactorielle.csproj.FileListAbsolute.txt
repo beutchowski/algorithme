@@ -1,0 +1,16 @@
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\OpérationFactorielle.exe
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\OpérationFactorielle.deps.json
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\OpérationFactorielle.runtimeconfig.json
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\OpérationFactorielle.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\OpérationFactorielle.dll
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\ref\OpérationFactorielle.dll
+C:\git\visualStudio\algorithme\OpérationFactorielle\bin\Debug\net5.0\OpérationFactorielle.pdb
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.dll
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\ref\OpérationFactorielle.dll
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.pdb
+C:\git\visualStudio\algorithme\OpérationFactorielle\obj\Debug\net5.0\OpérationFactorielle.genruntimeconfig.cache

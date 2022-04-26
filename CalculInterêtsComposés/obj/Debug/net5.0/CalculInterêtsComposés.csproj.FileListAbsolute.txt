@@ -1,0 +1,16 @@
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\CalculInterêtsComposés.exe
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\CalculInterêtsComposés.deps.json
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\CalculInterêtsComposés.runtimeconfig.json
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\CalculInterêtsComposés.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\CalculInterêtsComposés.dll
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\ref\CalculInterêtsComposés.dll
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\bin\Debug\net5.0\CalculInterêtsComposés.pdb
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.dll
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\ref\CalculInterêtsComposés.dll
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.pdb
+C:\git\visualStudio\algorithme\CalculInterêtsComposés\obj\Debug\net5.0\CalculInterêtsComposés.genruntimeconfig.cache

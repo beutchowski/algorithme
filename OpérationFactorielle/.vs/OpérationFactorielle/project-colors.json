@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbd08e2c-e060-4ece-8520-bcc91929c6d8": {
+      "ProjectGuid": "fbd08e2c-e060-4ece-8520-bcc91929c6d8",
+      "DisplayName": "OpérationFactorielle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

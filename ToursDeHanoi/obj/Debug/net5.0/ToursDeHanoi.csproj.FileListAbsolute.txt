@@ -1,0 +1,16 @@
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ToursDeHanoi.exe
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ToursDeHanoi.deps.json
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ToursDeHanoi.runtimeconfig.json
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ToursDeHanoi.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ToursDeHanoi.dll
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ref\ToursDeHanoi.dll
+C:\git\visualStudio\algorithme\ToursDeHanoi\bin\Debug\net5.0\ToursDeHanoi.pdb
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.dll
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ref\ToursDeHanoi.dll
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.pdb
+C:\git\visualStudio\algorithme\ToursDeHanoi\obj\Debug\net5.0\ToursDeHanoi.genruntimeconfig.cache

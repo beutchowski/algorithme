@@ -58,47 +58,30 @@ namespace TempsDeTri
         /// </summary>
         public void StartTri()
         {
-            int minValue = tab[0];
-            int maxValue = 0;
 
+            // tri d'entiers 
+            int max = 0;
+            for (int CptMax = 0; CptMax < tab.Length; CptMax++)
+            {
+                if (tab[CptMax] > max) max = tab[CptMax];
+            }
+            //Console.WriteLine("Max: " + max);
+            int [] B = new int[max + 1];
             for (int i = 0; i < tab.Length; i++)
             {
-                if (tab[i] > maxValue)
-                    maxValue = tab[i];
-                if (tab[i] < minValue)
-                    minValue = tab[i];
+                B[tab[i]] = tab[i];
             }
-
-            int[] tabBin = new int[maxValue + 1];
-
-            for(int i = 0; i < tab.Length; i++)
+            //B[nombres[cpti]]=300;
+            int j = 0;
+            for (int i = 0; i < B.Length; i++)
             {
-                tabBin[tab[i]] = tab[i];
-            }
-
-            int k = 0;
-            for(int j = 0; j < tabBin.Length; j++)
-            {
-                if(tabBin[j] > 0)
+                if (B[i] > 0)
                 {
-                    tab[k] = tabBin[j];
-                    k++;
+                    tab[j] = B[i];
+                    j++;
                 }
+
             }
-
-            foreach (int g in tabBin)
-            {
-                Console.Write($"|{g}");
-            }
-
-            Console.WriteLine("\n **************************************************");
-
-            foreach (int t in tab)
-            {
-                Console.Write($"|{t}");
-            }
-
-            
         }
 
     }

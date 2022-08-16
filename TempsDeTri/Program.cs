@@ -6,7 +6,7 @@ namespace TempsDeTri
     internal class Program
     {
         static Random rand = new Random();
-        const int TAILLE = 10;
+        const int TAILLE = 100000;
         static List<double> stockageSortieBubble;
         static List<double> stockageSortieInser;
         static List<double> stockageSortieSelec;
@@ -27,32 +27,27 @@ namespace TempsDeTri
                 TriParSelection triSelec = new TriParSelection(tab3);
                 TriParBinSort triBin = new TriParBinSort(tab4);
 
-
+                /*
                 bubble.Sort();
-
-                triInser.Sort();
-
-                triSelec.Sort();
-
-                foreach(int t in tab4)
-                {
-                    Console.Write($"|{t}");
-                }
-                Console.WriteLine("\n");
-
-                triBin.Sort();
-
-
-                Console.WriteLine("\n");
-
-
                 Console.WriteLine($"Tri BubbleSort test {i} : " + bubble.stopwatch.ElapsedMilliseconds + "ms");
-
+                triInser.Sort();
                 Console.WriteLine($"Tri par insertion test {i} : " + triInser.stopwatch.ElapsedMilliseconds + "ms");
-
+                triSelec.Sort();
                 Console.WriteLine($"Tri par sélection test {i} : " + triSelec.stopwatch.ElapsedMilliseconds + "ms");
-
+                */
+                triBin.Sort();
                 Console.WriteLine($"Tri par Binsort test {i} : " + triBin.stopwatch.ElapsedMilliseconds + "ms");
+
+                Console.WriteLine("\n");
+
+                
+
+
+
+
+
+                
+
 
 
 
@@ -68,7 +63,7 @@ namespace TempsDeTri
             int[] tab = new int[taille];
             for (int i = 0; i < tab.Length; i++)
             {
-                tab[i] = rand.Next(1,100);
+                tab[i] = rand.Next(1,1000);
             }
             return tab;
         }

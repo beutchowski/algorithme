@@ -10,7 +10,11 @@ namespace DataManagement
 
             liste1.add(1);
             liste1.add(18);
+            liste1.add(32);
 
+            liste1.Display();
+            liste1.remove(1);
+            Console.WriteLine();
             liste1.Display();
         }
     }

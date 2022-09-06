@@ -51,6 +51,9 @@ namespace DataManagement
             pile1.MettreLeTrucSurLaPile(23);
             pile1.MettreLeTrucSurLaPile(42);
             pile1.MettreLeTrucSurLaPile(4);
+            Console.WriteLine("\n");
+            pile1.LongueurDePile();
+            Console.WriteLine("\n");
             pile1.MettreLeTrucSurLaPile(8);
             pile1.MettreLeTrucSurLaPile(15);
             pile1.MettreLeTrucSurLaPile(16);
@@ -77,6 +80,7 @@ namespace DataManagement
             Console.WriteLine("\n");
             Console.WriteLine("\n");
             Console.WriteLine("\n");
+
 
 
         }

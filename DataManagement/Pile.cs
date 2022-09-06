@@ -68,6 +68,16 @@ namespace DataManagement
                 Console.WriteLine("La pile est vide, empiler des truc svp!!!!");
         }
 
+        public void LongueurDePile()
+        {
+            Console.WriteLine("La hauteur de la pile est de : " + sommet);
+        }
+
+        public void Effacer()
+        {
+            sommet = 0;
+        }
+
 
 
         public void Display()

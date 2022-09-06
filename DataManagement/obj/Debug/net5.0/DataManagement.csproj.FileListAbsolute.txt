@@ -1,0 +1,16 @@
+C:\git\visualStudio\algorithme\DataManagement\bin\Debug\net5.0\DataManagement.exe
+C:\git\visualStudio\algorithme\DataManagement\bin\Debug\net5.0\DataManagement.deps.json
+C:\git\visualStudio\algorithme\DataManagement\bin\Debug\net5.0\DataManagement.runtimeconfig.json
+C:\git\visualStudio\algorithme\DataManagement\bin\Debug\net5.0\DataManagement.runtimeconfig.dev.json
+C:\git\visualStudio\algorithme\DataManagement\bin\Debug\net5.0\DataManagement.dll
+C:\git\visualStudio\algorithme\DataManagement\bin\Debug\net5.0\DataManagement.pdb
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.csproj.AssemblyReference.cache
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.AssemblyInfoInputs.cache
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.AssemblyInfo.cs
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.csproj.CoreCompileInputs.cache
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.dll
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\refint\DataManagement.dll
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.pdb
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\DataManagement.genruntimeconfig.cache
+C:\git\visualStudio\algorithme\DataManagement\obj\Debug\net5.0\ref\DataManagement.dll

@@ -6,7 +6,12 @@ namespace DataManagement
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Liste liste1 = new Liste(4);
+
+            liste1.add(1);
+            liste1.add(18);
+
+            liste1.Display();
         }
     }
 }

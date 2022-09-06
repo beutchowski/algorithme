@@ -8,5 +8,14 @@ namespace DataManagement
 {
     internal class Pile
     {
+        public Pile()
+        {
+
+        }
+
+
+
+
+
     }
 }

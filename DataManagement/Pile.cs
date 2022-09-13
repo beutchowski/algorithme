@@ -8,7 +8,7 @@ namespace DataManagement
 {
     internal class Pile
     {
-        int[] pile;
+        private int[] pile;
         private int sommet;
 
 

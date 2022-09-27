@@ -8,36 +8,28 @@ namespace DataManagement
 {
     internal class Elément
     {
-        private int valeur;
-        private Elément prochainElément;
-
-        public Elément(int valeur)
+        private double valeur;
+        private Elément next;
+        public Elément()
         {
-            prochainElément = null;
+            next = null;
         }
-
-        public void AjouterValeur(int valeur)
+        // permet de modifier la valeur
+        public void SetInfo(double val)
         {
-                this.valeur = valeur;
+            this.valeur = val;
         }
-
-        public int GetValeur()
+        public void SetSuivant(Elément suivant)
         {
-            return valeur;
+            this.next = suivant;
         }
-
-        public void MarquerElémentSuivant(Elément prochainElément)
+        public double GetVal()
         {
-            this.prochainElément = prochainElément;
+            return this.valeur;
         }
-
-        public Elément GetProchainElément()
+        public Elément GetSuivant()
         {
-            return prochainElément;
+            return this.next;
         }
-
-
-
-
     }
 }

@@ -13,6 +13,7 @@ namespace DataManagement
         public Elément()
         {
             next = null;
+            valeur = 0;
         }
         // permet de modifier la valeur
         public void SetInfo(double val)

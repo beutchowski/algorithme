@@ -8,35 +8,42 @@ namespace DataManagement
         {
 
 
-            FiFo fifo = new FiFo();
+            Table table = new Table(2500);
 
-            fifo.AjouterValeur(10);
-            fifo.AjouterValeur(20);
-            fifo.AjouterValeur(30);
-            fifo.AjouterValeur(40);
-            fifo.AjouterValeur(50);
-            fifo.AjouterValeur(60);
-            fifo.AjouterValeur(70);
-            fifo.AjouterValeur(80);
-            fifo.AjouterValeur(90);
-            fifo.AjouterValeur(100);
+
+
+
+
+
+            //FiFo fifo = new FiFo();
+
+            //fifo.AjouterValeur(10);
+            //fifo.AjouterValeur(20);
+            //fifo.AjouterValeur(30);
+            //fifo.AjouterValeur(40);
+            //fifo.AjouterValeur(50);
+            //fifo.AjouterValeur(60);
+            //fifo.AjouterValeur(70);
+            //fifo.AjouterValeur(80);
+            //fifo.AjouterValeur(90);
+            //fifo.AjouterValeur(100);
             //fifo.AjouterValeur(110);
 
-            fifo.AfficherQueue();
+            //fifo.AfficherQueue();
 
 
-            Console.WriteLine("");
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
-            Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine("");
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
+            //Console.WriteLine(fifo.RetirerValeur());
 
 
 
